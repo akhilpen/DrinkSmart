@@ -4,6 +4,6 @@
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=9hJ38qULiWw
 " target="_blank"><img src="http://img.youtube.com/vi/9hJ38qULiWw/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="340" height="480" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="400" height="480" border="10" /></a>
 
 
