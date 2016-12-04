@@ -2,4 +2,4 @@
 
 ####Made by Sai Akhil Pendyala and Abhinav Mahajan.
 
-[![ScreenShot](http://img.youtube.com/vi/9hJ38qULiWw/1.jpg)](http://www.youtube.com/watch?v=9hJ38qULiWw)
+[![ScreenShot](http://img.youtube.com/vi/9hJ38qULiWw/2.jpg)](http://www.youtube.com/watch?v=9hJ38qULiWw)
