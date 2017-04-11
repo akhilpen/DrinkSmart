@@ -1,6 +1,6 @@
 # DrinkSmart
 
-####Made by Sai Akhil Pendyala and Abhinav Mahajan.
+####Made by Sai Akhil Pendyala and Satya Kranthi Penumanchili.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=9hJ38qULiWw
 " target="_blank"><img src="http://img.youtube.com/vi/9hJ38qULiWw/0.jpg" 
